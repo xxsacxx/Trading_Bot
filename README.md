@@ -1,4 +1,4 @@
-# Trading BOT #
+# Trading Bot #
 ![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
 
 *The most valuable commodity I know of is information.*
